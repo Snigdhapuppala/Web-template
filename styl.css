@@ -1,0 +1,76 @@
+.page{
+    width: 807px;
+    height: 815px;
+    border-radius: 15px;
+    border: 2px solid white;
+
+    
+}
+h1{
+
+    color: blue;
+    font-size: 60px;
+    font-weight: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.box-1{
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+    border: 2px solid rgb(246, 240, 240);
+    border-radius: 15px;
+    float: left;
+    margin-left: 20px;
+    box-shadow: 5px 15px rgb(137, 133, 133);
+}
+.box-2{
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+    border: 2px solid rgb(246, 240, 240);
+    border-radius: 15px;
+    float: left;
+    margin-left: 45px;
+    box-shadow: 5px 15px rgb(137, 133, 133);
+
+}
+.box-3{
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+    border: 2px solid rgb(246, 240, 240);
+    border-radius: 15px;
+    float: left;
+    margin-left: 50px;
+    box-shadow: 5px 15px rgb(137, 133, 133);
+
+}
+.box-4{
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+    border: 2px solid rgb(246, 240, 240);
+    border-radius: 15px;
+    float: left;
+    margin-top: 100px;
+    margin-left: 150px;
+    box-shadow: 5px 15px rgb(137, 133, 133);
+
+}
+.box-5{
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+    border: 2px solid rgb(246, 240, 240);
+    border-radius: 15px;
+    float: left;
+    margin-top: 100px;
+    margin-left: 50px;
+    box-shadow: 5px 15px rgb(137, 133, 133);
+
+}
+img{
+    margin-top: 30px;
+    width: 80px;
+    height: 80px;
+}
